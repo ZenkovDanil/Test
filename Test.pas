@@ -52,6 +52,8 @@ begin
   Thread2:=TMyThread2.Create(True);
   Thread1.FreeOnTerminate:=True;
   Thread2.FreeOnTerminate:=True;
+  Thread1.Priority:=tpNormal;
+  Thread2.Priority:=tpNormal;
   Thread1.Resume;
   Thread2.Resume;
 
@@ -80,7 +82,6 @@ begin
        if (i mod k)=0 then
          begin
           prost:=false;
-          Event.SetEvent;
           break;
          end;
      end;

@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.926,C:\Users\Great\Desktop\Test\Test1.dproj=C:\Users\Great\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
     <Transaction>1899.12.30 00:00:00.000.522,=C:\Users\Great\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.041,=C:\Users\Great\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\Great\Desktop\Test\Test.dfm=C:\Users\Great\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\Great\Desktop\Test\Test.pas=C:\Users\Great\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\Great\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Great\Desktop\Test\Test.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.722,C:\Users\Great\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Great\Desktop\Test\Test.dfm</Transaction>
     <Transaction>1899.12.30 00:00:00.000.205,=C:\Users\Great\Desktop\Test\Unit1.pas</Transaction>
     <Transaction>1899.12.30 00:00:00.000.693,=C:\Users\Great\Desktop\Test\Unit1.pas</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.535,C:\Users\Great\Desktop\Test\MyThread.pas=C:\Users\Great\Desktop\Test\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.535,C:\Users\Great\Desktop\Test\Unit1.pas=C:\Users\Great\Desktop\Test\MyThread.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.926,C:\Users\Great\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Great\Desktop\Test\Test1.dproj</Transaction>
   </Transactions>
 </BorlandProject>
