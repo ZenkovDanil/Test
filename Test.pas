@@ -90,7 +90,6 @@ end;
 
 procedure TTesting.recordR(i,pot: integer);
 var
-  k: integer;
   prost: boolean;
 begin
   prost:=fProst(i);
